@@ -1,0 +1,140 @@
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe.config
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.pdb
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.xml
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbprojResolveAssemblyReference.cache
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.administrerSykler.resources
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.bestillSykkel.resources
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.registrerBruker.resources
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.GenerateResource.Cache
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.CoreCompileInputs.cache
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.exe
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.xml
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.pdb
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\bin\Debug\MySql.Data.dll
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\bin\Debug\MySql.Data.xml
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe.config
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.pdb
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.xml
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\MySql.Data.dll
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\MySql.Data.xml
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbprojResolveAssemblyReference.cache
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.administrerSykler.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.bestillSykkel.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.registrerBruker.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.GenerateResource.cache
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.CoreCompileInputs.cache
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.CopyComplete
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.exe
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.xml
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 18.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.pdb
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe.config
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.pdb
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.xml
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\MySql.Data.dll
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\MySql.Data.xml
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbprojResolveAssemblyReference.cache
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.administrerSykler.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.bestillSykkel.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.RedigerAvdelinger.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.registrerBruker.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.GenerateResource.cache
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.CoreCompileInputs.cache
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.CopyComplete
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.exe
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.xml
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 21.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.pdb
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.RedigerAvdelinger.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe.config
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.pdb
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.xml
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\MySql.Data.dll
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\bin\Debug\MySql.Data.xml
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbprojResolveAssemblyReference.cache
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.administrerSykler.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.bestillSykkel.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.RedigerAvdelinger.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.registrerBruker.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.GenerateResource.cache
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.CoreCompileInputs.cache
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.CopyComplete
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.exe
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.xml
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Nikolai 25.04.2018\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.pdb
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe.config
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\bin\Debug\Sykkelbestilling.pdb
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\bin\Debug\Sykkelbestilling.xml
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\bin\Debug\MySql.Data.dll
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\bin\Debug\MySql.Data.xml
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbprojResolveAssemblyReference.cache
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\WindowsApp1.administrerSykler.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\WindowsApp1.bestillSykkel.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\WindowsApp1.RedigerAvdelinger.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\WindowsApp1.registrerBruker.resources
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.GenerateResource.cache
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.CoreCompileInputs.cache
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.CopyComplete
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.exe
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.xml
+C:\Users\Torgeir Krohn\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelutleie prototype - back-up\Torgeir 01.05.2018\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.pdb
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe.config
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\bin\Debug\Sykkelbestilling.pdb
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\bin\Debug\Sykkelbestilling.xml
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\bin\Debug\MySql.Data.dll
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\bin\Debug\MySql.Data.xml
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbprojResolveAssemblyReference.cache
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\WindowsApp1.administrerSykler.resources
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\WindowsApp1.bestillSykkel.resources
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\WindowsApp1.RedigerAvdelinger.resources
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\WindowsApp1.registrerBruker.resources
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.GenerateResource.Cache
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.CoreCompileInputs.cache
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.exe
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.xml
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 01.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.pdb
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe.config
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\bin\Debug\Sykkelbestilling.pdb
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\bin\Debug\Sykkelbestilling.xml
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\bin\Debug\MySql.Data.dll
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\bin\Debug\MySql.Data.xml
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbprojResolveAssemblyReference.cache
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\obj\Debug\WindowsApp1.administrerSykler.resources
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\obj\Debug\WindowsApp1.bestillSykkel.resources
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\obj\Debug\WindowsApp1.RedigerAvdelinger.resources
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\obj\Debug\WindowsApp1.registrerBruker.resources
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.GenerateResource.Cache
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.CoreCompileInputs.cache
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.exe
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.xml
+C:\Users\Nikolai\source\repos\Objektorientert\Sykkelbestilling 02.05.2018\Sykkelbestilling\obj\Debug\Sykkelbestilling.pdb
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe.config
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.exe
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.pdb
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\bin\Debug\Sykkelbestilling.xml
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\bin\Debug\MySql.Data.dll
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\bin\Debug\MySql.Data.xml
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbprojResolveAssemblyReference.cache
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.administrerSykler.resources
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.bestillSykkel.resources
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.RedigerAvdelinger.resources
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\obj\Debug\WindowsApp1.registrerBruker.resources
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.GenerateResource.cache
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.CoreCompileInputs.cache
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.vbproj.CopyComplete
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.exe
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.xml
+C:\Users\Torgeir Krohn\iCloudDrive\Documents\Studier\Objektorientert programmering med systemarbeid\Sykkelbestillingsprosjekt\Sykkelbestilling\Sykkelbestilling\obj\Debug\Sykkelbestilling.pdb
